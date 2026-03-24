@@ -1,14 +1,14 @@
 {
   "train_results": {
     "train_accuracy": 1.0,
-    "training_time": 208.64684057235718,
-    "feature_extraction_time": 7.1506054401397705,
+    "training_time": 164.25680708885193,
+    "feature_extraction_time": 6.805079698562622,
     "n_samples": 10000,
     "n_features": 340
   },
   "eval_results": {
-    "test_accuracy": 0.6105,
-    "inference_time": 18.24913477897644,
-    "avg_inference_time_per_sample": 0.00912456738948822
+    "test_accuracy": 0.6142,
+    "inference_time": 40.97324275970459,
+    "avg_inference_time_per_sample": 0.004097324275970459
   }
 }

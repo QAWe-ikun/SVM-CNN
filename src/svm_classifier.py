@@ -443,7 +443,7 @@ def train_and_evaluate_svm():
     train_results = classifier.train(train_images, train_labels, max_samples=10000)
     
     # 评估
-    eval_results = classifier.evaluate(test_images, test_labels, max_samples=2000)
+    eval_results = classifier.evaluate(test_images, test_labels, max_samples=None)
     
     # 绘制混淆矩阵
     classifier.plot_confusion_matrix(
