@@ -5,9 +5,11 @@
 
 import os
 import sys
-import time
 import argparse
 from datetime import datetime
+import warnings
+
+warnings.filterwarnings("ignore")
 
 # 添加 src 目录到路径
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
