@@ -1,0 +1,11 @@
+# Report
+docs/
+
+# CIFAR-10 data
+data/
+
+# Python
+**/*.pyc
+
+# vscode
+.vscode/

@@ -1,0 +1,14 @@
+{
+  "train_results": {
+    "train_accuracy": 1.0,
+    "training_time": 134.76154232025146,
+    "feature_extraction_time": 6.6897923946380615,
+    "n_samples": 10000,
+    "n_features": 340
+  },
+  "eval_results": {
+    "test_accuracy": 0.614,
+    "inference_time": 8.134840726852417,
+    "avg_inference_time_per_sample": 0.004067420363426209
+  }
+}
